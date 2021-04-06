@@ -13,3 +13,6 @@
 - **回家作業** :
   - [題目](/高一/回家作業02/only_problem.ipynb "by vflc")
   - [詳解](/高一/回家作業02/solve.ipynb "by vflc")
+
+- **useless bonus** :
+  - [猜數字一行解](/高一/回家作業02/guess_number_one_line.ipynb "by vflc")
